@@ -22,6 +22,13 @@ export const works = [
     },
     {
         id: 4 ,
+        title: 'Underground Icons',
+        desc: 'Biggest open-source React Icon library with rare icons.',
+        img: 'https://res.cloudinary.com/bradley-cdn/image/upload/f_auto/q_auto/v1760120093/Capture_lrvzlz.png',
+        site: 'https://underground-icons.netlify.app/about'
+    },
+    {
+        id: 5 ,
         title: 'Dennis EDI',
         desc: 'A portfolio website for a UK based lecturer.',
         img: 'https://res.cloudinary.com/bradley-cdn/image/upload/f_auto/q_auto/v1759911278/dennis_odaum0.png',

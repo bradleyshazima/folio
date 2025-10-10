@@ -7,6 +7,8 @@ import { TbBrandFiverr } from "react-icons/tb";
 import { FiMenu, FiX } from "react-icons/fi"; // Icons for mobile menu
 import { FlipWords } from "@/components/ui/shadcn-io/flip-words";
 import { works } from './contants/constants';
+import { AirPods } from 'underground-icons';
+
 
 const words = ["Web Developer", "App Developer", "Graphic Designer"];
 
@@ -89,7 +91,7 @@ function App() {
                 onClick={() => scrollToSection('#home')}
                 className={`relative pb-1 transition-all duration-300 ${activeSection === 'home' ? "text-blue-700 dark:text-blue-400 font-semibold" : "hover:text-blue-700 dark:hover:text-blue-400"}`}
               >
-                HOME
+                HOME <AirPods />
                 <span className={`absolute left-0 bottom-0 h-[2px] w-full bg-blue-700 dark:bg-blue-400 transition-all duration-300 ${activeSection === 'home' ? "scale-x-100" : "scale-x-0"}`}></span>
               </button>
             </li>
