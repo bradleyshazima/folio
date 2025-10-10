@@ -25,7 +25,7 @@ export const works = [
         title: 'Underground Icons',
         desc: 'Biggest open-source React Icon library with rare icons.',
         img: 'https://res.cloudinary.com/bradley-cdn/image/upload/f_auto/q_auto/v1760120093/Capture_lrvzlz.png',
-        site: 'https://underground-icons.netlify.app/about'
+        site: 'https://underground-icons.netlify.app'
     },
     {
         id: 5 ,
