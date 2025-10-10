@@ -7,7 +7,6 @@ import { TbBrandFiverr } from "react-icons/tb";
 import { FiMenu, FiX } from "react-icons/fi"; // Icons for mobile menu
 import { FlipWords } from "@/components/ui/shadcn-io/flip-words";
 import { works } from './contants/constants';
-import { AirPods } from 'underground-icons';
 
 
 const words = ["Web Developer", "App Developer", "Graphic Designer"];
